@@ -1,0 +1,18 @@
+CRUD em PYTHON
+===================
+CRUD em python (modo grafico) com BD em PostgreSQL.
+O crud terá apenas uma tabela:
+
+Tabela peças:
+-------------
+- codigo,
+- nome,
+- quantidade
+- preço
+
+===================================
+Deverá ainda:
+- Apresentar qual é a peca mais cara
+- Qual é a peca mais barata
+- Qual é a peca de maior quantidade
+
