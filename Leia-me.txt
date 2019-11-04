@@ -1,0 +1,18 @@
+CRUD em PYTHON
+===================
+Esse exemplo de aplicativo em python (modo grafico) possui 
+o BD em PostgreSQL e apenas uma tabela:
+
+Tabela peças:
+-------------
+- codigo,
+- nome,
+- quantidade
+- preço
+
+===================================
+Ainda apresenta:
+- Qual é a peça mais cara
+- Qual é a peça mais barata
+- Qual é a peça de maior quantidade
+
